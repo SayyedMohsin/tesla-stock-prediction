@@ -1,3 +1,6 @@
+![Streamlit App CI](https://github.com/SayyedMohsin/tesla-stock-prediction/actions/workflows/streamlit.yml/badge.svg)
+
+
 # 📈 Tesla Stock Prediction Dashboard
 
 A professional Streamlit dashboard for predicting Tesla stock prices using **LSTM neural networks**.  
