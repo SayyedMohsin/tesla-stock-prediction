@@ -37,6 +37,7 @@ env/
 # Data & Models
 # ---------------------------
 # data/*.csv
+!data/TSLA.csv
 data/*.xlsx
 data/*.json
 models/*.h5
