@@ -30,37 +30,41 @@ Interactive charts + predicted price tables with **light & dark themes**.
 
 ## 📂 Project Structure
 
-##tesla-stock-prediction/
+## tesla-stock-prediction/
 
-│── app.py                 # Streamlit dashboard
-│── data/TSLA.csv         # Tesla stock dataset
-│── models/               # Saved models
-│── requirements.txt       # Dependencies
-│── README.md              # Documentation
+**│── app.py                 # Streamlit dashboard**
+
+**│── data/TSLA.csv         # Tesla stock dataset**
+
+**│── models/               # Saved models**
+
+**│── requirements.txt       # Dependencies**
+
+**│── README.md              # Documentation**
 
 
 ---
 
 ## 📸 Screenshots
 
-### Dashboard (Light Mode)
-![Light Mode Screenshot](images/light_mode.png)
-
 ### Dashboard (Dark Mode)
 ![Dark Mode Screenshot](images/dark_mode.png)
 
----
-
 ## ⚙️ Installation
 
-```bash
-git clone https://github.com/<your-username>/tesla-stock-prediction.git
-cd tesla-stock-prediction
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-streamlit run app.py
+**```bash**
+**git clone https://github.com/SayyedMohsin/tesla-stock-prediction.git**
+
+**cd tesla-stock-prediction**
+
+**python -m venv .venv**
+
+**.venv\Scripts\activate**
+
+**pip install -r requirements.txt**
+
+**streamlit run app.py**
 
 ## 👨‍💻 Author
 Sayyed Mohsin Ali  
-Intern Data Scientist 
+Data Scientist/ AIML 
