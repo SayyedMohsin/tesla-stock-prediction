@@ -8,6 +8,8 @@ Supports multiple **lookback windows (30, 60, 90, 120 days)** and prediction hor
 Interactive charts + predicted price tables with **light & dark themes**.
 
 ---
+## Deployed in Streamlite:- *https://tesla-stock-predictions.streamlit.app/*
+
 
 ## 🚀 Features
 - Dynamic **Lookback Window** selection
