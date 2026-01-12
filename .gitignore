@@ -36,7 +36,7 @@ env/
 # ---------------------------
 # Data & Models
 # ---------------------------
-data/*.csv
+# data/*.csv
 data/*.xlsx
 data/*.json
 models/*.h5
