@@ -1,0 +1,18 @@
+# Core ML stack
+tensorflow==2.15.0
+keras==2.15.0
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+
+# Visualization
+matplotlib==3.8.4
+
+# Dashboard
+streamlit==1.32.0
+
+# Utilities
+protobuf==4.25.3
+h5py==3.15.1
